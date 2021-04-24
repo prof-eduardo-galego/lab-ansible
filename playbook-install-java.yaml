@@ -1,5 +1,5 @@
 ---
-- hosts: bkend_dev
+- hosts: dev
   remote_user: ubuntu
   tasks:
   - name: Add Oracle Java Repository
